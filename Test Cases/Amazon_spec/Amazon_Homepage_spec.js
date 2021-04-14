@@ -51,7 +51,9 @@ describe("Amazon Homepage", () => {
     expect(Amazon_Page.fashion.getText()).toEqual("Fashion");
     expect(Amazon_Page.new_releases.getText()).toEqual("New Releases");
     expect(Amazon_Page.prime.getText()).toEqual("Prime");
+    util.wait(Amazon_Page.customer_service);
     expect(Amazon_Page.customer_service.getText()).toEqual("Customer Service");
+    util.wait(Amazon_Page.amazon_pay);
     expect(Amazon_Page.amazon_pay.getText()).toEqual("Amazon Pay");
     expect((Amazon_Page.download_app).isDisplayed()).toBe(true);
 
@@ -95,6 +97,7 @@ describe("Amazon Homepage", () => {
   it("Functionality of sub-navigation bar", () => {
 
     //All items section
+    util.wait(Amazon_Page.all);
     Amazon_Page.all.click();
     Amazon_Page.cancel.click();
 

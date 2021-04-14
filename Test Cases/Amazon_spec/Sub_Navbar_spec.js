@@ -64,7 +64,6 @@ describe("Assert Sub-Navigation bar sections", () => {
         Amazon_Page.mobiles.click();
 
         //Assert navigation bar
-        util.wait(Amazon_Page.electronics);
         expect((Amazon_Page.electronics).isDisplayed()).toBe(true);
         expect(Amazon_Page.mobile_assessories.getText()).toEqual("Mobiles & Accessories");
         expect(Amazon_Page.laptop_assessories.getText()).toEqual("Laptops & Accessories");
