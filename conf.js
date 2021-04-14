@@ -18,6 +18,8 @@ exports.config = {
 
   framework: 'jasmine',
 
+  useAllAngular2AppRoots: true,
+
   specs: ['Test Cases//Basic_Components_spec//*.js', 'Test Cases//Intermediate_Components_spec//*.js', 'Test Cases//Small Projects_spec//Banking_spec//*.js', 'Test Cases//Small Projects_spec//*.js', 'Test Cases//Course_Selection_spec//*.js', 'Test Cases//Delta_Homepage_spec//*.js','Test Cases//Amazon_spec//*.js','Test Cases//Angular_spec//*.js'],
 
   allScriptsTimeout: 100000000,
