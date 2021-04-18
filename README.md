@@ -43,19 +43,6 @@ AfterEach.
 
 # Various concepts performed in github
 
-<<<<<<< HEAD:README.md
-Clone,
-Push,
-Pull,
-Commit,
-Branch,
-Add,
-Init,
-Diff,
-Merge,
-Restore,
-Checkout.
-=======
 clone,
 push,
 pull,
@@ -67,7 +54,6 @@ diff,
 merge,
 restore,
 checkout.
->>>>>>> c9df4384de304c15973b7f9569255bd6d2d23f5a:Project/README.md
 
 
 # Report
