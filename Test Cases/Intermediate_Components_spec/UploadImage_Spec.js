@@ -53,9 +53,9 @@ describe("Assert UploadImage Section", () => {
 
         //Wait and upload image from local path
         util.wait(UploadImage_Page.selectImage);
-        UploadImage_Page.selectImage.sendKeys("C://Users//mindfire//Downloads//pp.jpg");
+        UploadImage_Page.selectImage.sendKeys("C://Users//Jasvinder Singh//Downloads//pp.jpg");
         browser.ignoreSynchronization = true;
-
+        
         //Assert progressbar visibility
         var EC = protractor.ExpectedConditions;
         browser.wait(EC.visibilityOf(UploadImage_Page.progressbar), 5000, "No progress animation is visible");

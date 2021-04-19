@@ -1271,6 +1271,1906 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         ],
         "timestamp": 1618390216255,
         "duration": 13692
+    },
+    {
+        "description": "Assert various Multiform|Assert Multiform Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807216449,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807218800,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00490008-00db-009e-000a-0089000f00b0.png",
+        "timestamp": 1618807213329,
+        "duration": 19018
+    },
+    {
+        "description": "Assert various search boxes and search result|Assert SearchFilter Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807233153,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807233399,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00e900fc-0037-0018-003e-008f00b8008e.png",
+        "timestamp": 1618807233060,
+        "duration": 7540
+    },
+    {
+        "description": "Assert various searches and data in WebTable|Assert WebTable Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807240767,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807240807,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\001f0014-001b-001e-00a3-009f00170016.png",
+        "timestamp": 1618807240715,
+        "duration": 5574
+    },
+    {
+        "description": "Signin with invalid username and password and assert the error labels|Assert RegistrationLogin Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807248698,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00b000a0-00c9-0037-0030-00c700f80034.png",
+        "timestamp": 1618807248507,
+        "duration": 9089
+    },
+    {
+        "description": "Assert login is successful, and assert the labels shown |Assert RegistrationLogin Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807257862,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0014006a-0053-008c-008c-006a00460059.png",
+        "timestamp": 1618807257671,
+        "duration": 10578
+    },
+    {
+        "description": "Assert various search boxes and search result|Assert Scrollable Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807268549,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\000900e3-0057-0008-0091-00b00027007f.png",
+        "timestamp": 1618807268348,
+        "duration": 3294
+    },
+    {
+        "description": "Assert and upload image|Assert UploadImage Section",
+        "passed": false,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": [
+            "Failed: invalid argument: File not found : C://Users//mindfire//Downloads//pp.jpg\n  (Session info: chrome=90.0.4430.72)\n  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: invalid argument: File not found : C://Users//mindfire//Downloads//pp.jpg\n  (Session info: chrome=90.0.4430.72)\n  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64)\n    at Object.checkLegacyResponse (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n    at parseHttpResponse (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)\nFrom: Task: WebElement.sendKeys()\n    at Driver.schedule (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n    at WebElement.schedule_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2010:25)\n    at WebElement.sendKeys (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2174:19)\n    at actionFn (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:89:44)\n    at Array.map (<anonymous>)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:461:65\n    at ManagedPromise.invokeCallback_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:459:27)\n    at ElementArrayFinder.<computed> [as sendKeys] (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:91:29)\n    at ElementFinder.<computed> [as sendKeys] (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:831:22)\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Intermediate_Components_spec\\UploadImage_Spec.js:56:38)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\nFrom: Task: Run it(\"Assert and upload image\") in control flow\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Intermediate_Components_spec\\UploadImage_Spec.js:30:5)\n    at addSpecsToSuite (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Intermediate_Components_spec\\UploadImage_Spec.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807271927,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\006500b6-00f8-0057-0095-00fd003800d9.png",
+        "timestamp": 1618807271750,
+        "duration": 3974
+    },
+    {
+        "description": "Functionality of Customer Transaction|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807275972,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00bc0053-0087-00cb-0050-006a00e200f9.png",
+        "timestamp": 1618807275803,
+        "duration": 6461
+    },
+    {
+        "description": "Functionality of Customer Deposit|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807282469,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807282660,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00f7005a-003c-00ed-0045-00ae00ed00b7.png",
+        "timestamp": 1618807282358,
+        "duration": 2527
+    },
+    {
+        "description": "Functionality of Customer Deposit|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807285083,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807285268,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\001800ba-0038-00ac-0014-000b00090043.png",
+        "timestamp": 1618807284995,
+        "duration": 2014
+    },
+    {
+        "description": "click Home Page|XYZ Bank Home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807287189,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807287397,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00dd005f-00a1-0011-0068-00a30040006f.png",
+        "timestamp": 1618807287114,
+        "duration": 999
+    },
+    {
+        "description": "AddCustomer section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807288286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807288508,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\006000e5-0000-0060-00ec-008700550049.png",
+        "timestamp": 1618807288209,
+        "duration": 2859
+    },
+    {
+        "description": "OpenAccount section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807291256,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807291480,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00d2007f-00d6-00a0-009a-00bc00ec00a2.png",
+        "timestamp": 1618807291173,
+        "duration": 2322
+    },
+    {
+        "description": "Customers section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807293804,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00d400d7-0010-0088-0069-009b00940028.png",
+        "timestamp": 1618807293598,
+        "duration": 1550
+    },
+    {
+        "description": "Valid Consumption Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807295368,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807295554,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00290046-0062-0031-007d-00ee00d70000.png",
+        "timestamp": 1618807295259,
+        "duration": 4226
+    },
+    {
+        "description": "Invalid Consumption Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807300230,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807300276,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00950041-0080-006f-006b-00660005001b.png",
+        "timestamp": 1618807300181,
+        "duration": 1442
+    },
+    {
+        "description": "Valid Simple Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807301795,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807301836,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\008d0043-0062-00aa-003d-00d40082001b.png",
+        "timestamp": 1618807301737,
+        "duration": 3117
+    },
+    {
+        "description": "Invalid Simple Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807305137,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\003f0043-0028-0060-0028-001700a600e6.png",
+        "timestamp": 1618807304945,
+        "duration": 1503
+    },
+    {
+        "description": "Assert home page navigation bar|Assert Course selection home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/visits - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807310691,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00c40073-00a5-001b-0050-00c1006d0095.png",
+        "timestamp": 1618807306561,
+        "duration": 10653
+    },
+    {
+        "description": "functionality of home page navigation bar|Assert Course selection home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807319010,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807320134,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807328597,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807328597,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807334136,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/sign_in - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807334136,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://sso.teachable.com/ahoy/visits - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807334137,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807335165,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807335165,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807335166,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00f60063-00e8-0079-00dc-00a200d50053.png",
+        "timestamp": 1618807317468,
+        "duration": 18299
+    },
+    {
+        "description": "Print course details|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807336276,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807336736,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807336736,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807336807,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807336808,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807347173,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00750000-00f6-0080-0092-003b00870001.png",
+        "timestamp": 1618807336053,
+        "duration": 31488
+    },
+    {
+        "description": "Print author name in dropdown|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807377063,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807377064,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807377087,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807377101,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807377101,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807382789,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807382789,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0055009f-00f7-00cb-0044-00e5008600a2.png",
+        "timestamp": 1618807367765,
+        "duration": 20113
+    },
+    {
+        "description": "Assert all courses by searching protractor|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807389648,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807389650,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807389692,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807389693,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807389693,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807389708,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807389708,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807390750,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807397165,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807402263,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807409312,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807414373,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807419462,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618807424722,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\001f0030-0000-004a-001d-007c00730054.png",
+        "timestamp": 1618807388112,
+        "duration": 36609
+    },
+    {
+        "description": "Assert home page Journey Details|Assert and functionality check of Journey Details",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://www.delta.com/resources/c36db7c71763120c0d0265eb98f27f913a30d77a1d98e 18 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1618807428653,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.delta.com/apac/en - Mixed Content: The page at 'https://www.delta.com/apac/en' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://dpm.demdex.net/id/rd?d_visid_ver=2.3.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=F0E65E09512D2CC50A490D4D%40AdobeOrg&d_nsid=0&ts=1618807428607'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1618807429561,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://gum.criteo.com/sync?c=327&a=1&r=1&u=https://pulse.delta.com/pc/delta/%3Fcw_criteoid%3D%40USERID%40 - Failed to load resource: net::ERR_CONNECTION_REFUSED",
+                "timestamp": 1618807455946,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\008a0028-009b-0040-000f-000400630015.png",
+        "timestamp": 1618807424923,
+        "duration": 31225
+    },
+    {
+        "description": "Assert home page navigation bar|Assert and functionality check of delta navigation bar",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://www.delta.com/resources/c36db7c71763120c0d0265eb98f27f913a30d77a1d98e 18 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1618807457206,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://gum.criteo.com/sync?c=327&a=1&r=1&u=https://pulse.delta.com/pc/delta/%3Fcw_criteoid%3D%40USERID%40 - Failed to load resource: net::ERR_CONNECTION_REFUSED",
+                "timestamp": 1618807482327,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00b80067-007f-003c-00fb-0071001c00b4.png",
+        "timestamp": 1618807456304,
+        "duration": 26391
+    },
+    {
+        "description": "Functionality of home page navigation bar|Assert and functionality check of delta navigation bar",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://www.delta.com/resources/c36db7c71763120c0d0265eb98f27f913a30d77a1d98e 18 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1618807484090,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://gum.criteo.com/sync?c=327&a=1&r=1&u=https://pulse.delta.com/pc/delta/%3Fcw_criteoid%3D%40USERID%40 - Failed to load resource: net::ERR_CONNECTION_REFUSED",
+                "timestamp": 1618807509295,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://www.delta.com/resources/c36db7c71763120c0d0265eb98f27f913a30d77a1d98e 18 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1618807510956,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://gum.criteo.com/sync?c=327&a=1&r=1&u=https://pulse.delta.com/pc/delta/%3Fcw_criteoid%3D%40USERID%40 - Failed to load resource: net::ERR_CONNECTION_TIMED_OUT",
+                "timestamp": 1618807538478,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.google.co.in/pagead/1p-user-list/1072374139/?guid=ON&script=0&data=medallion_status=;fare_class=;origin=;destination=;departure_date=;return_date=;pagetype=allpages;CabinType=&is_vtc=1&random=4225899179&ipr=y - Failed to load resource: net::ERR_CONNECTION_CLOSED",
+                "timestamp": 1618807539689,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://www.delta.com/resources/c36db7c71763120c0d0265eb98f27f913a30d77a1d98e 18 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1618807544825,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://delta-www.baynote.net/baynote/tags3/common?customerId=delta&code=www&timeout=undefined&onFailure=undefined - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+                "timestamp": 1618807546849,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://gum.criteo.com/sync?c=327&a=1&r=1&u=https://pulse.delta.com/pc/delta/%3Fcw_criteoid%3D%40USERID%40 - Failed to load resource: net::ERR_CONNECTION_REFUSED",
+                "timestamp": 1618807570406,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://ad.doubleclick.net/ddm/activity/src=383639;type=delta167;cat=dlall;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1;num=1? - Failed to load resource: net::ERR_CONNECTION_CLOSED",
+                "timestamp": 1618807571052,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://www.delta.com/resources/c36db7c71763120c0d0265eb98f27f913a30d77a1d98e 18 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1618807573059,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://www.delta.com/resources/c36db7c71763120c0d0265eb98f27f913a30d77a1d98e 18 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1618807578686,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://gum.criteo.com/sync?c=327&a=1&r=1&u=https://pulse.delta.com/pc/delta/%3Fcw_criteoid%3D%40USERID%40 - Failed to load resource: net::ERR_CONNECTION_REFUSED",
+                "timestamp": 1618807604078,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://www.delta.com/resources/c36db7c71763120c0d0265eb98f27f913a30d77a1d98e 18 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1618807606075,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://gum.criteo.com/sync?c=327&a=1&r=1&u=https://pulse.delta.com/pc/delta/%3Fcw_criteoid%3D%40USERID%40 - Failed to load resource: net::ERR_CONNECTION_REFUSED",
+                "timestamp": 1618807630900,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\009a00a1-00f0-00b8-0028-00bc003800d9.png",
+        "timestamp": 1618807482942,
+        "duration": 149390
+    },
+    {
+        "description": "Assert Multiform|Assert Basic Components",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 8784,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://www.delta.com/resources/c36db7c71763120c0d0265eb98f27f913a30d77a1d98e 18 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1618807633394,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://delta-www.baynote.net/baynote/tags3/common?customerId=delta&code=www&timeout=undefined&onFailure=undefined - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+                "timestamp": 1618807634857,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618807635316,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618807635564,
+                "type": ""
+            }
+        ],
+        "timestamp": 1618807634849,
+        "duration": 12791
+    },
+    {
+        "description": "Assert various Multiform|Assert Multiform Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809371317,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809373037,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00fe0008-00ce-00f4-00fb-00b7005300d4.png",
+        "timestamp": 1618809369907,
+        "duration": 18017
+    },
+    {
+        "description": "Assert various search boxes and search result|Assert SearchFilter Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809389333,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809389570,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00bf0090-0086-005f-00cd-00a90019009f.png",
+        "timestamp": 1618809388285,
+        "duration": 5172
+    },
+    {
+        "description": "Assert various searches and data in WebTable|Assert WebTable Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809393818,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\002a00c9-00c4-00a6-0073-00ad0085007f.png",
+        "timestamp": 1618809393608,
+        "duration": 2840
+    },
+    {
+        "description": "Signin with invalid username and password and assert the error labels|Assert RegistrationLogin Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809396774,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\007700c0-001c-00c3-00aa-00ad00f10077.png",
+        "timestamp": 1618809396574,
+        "duration": 8159
+    },
+    {
+        "description": "Assert login is successful, and assert the labels shown |Assert RegistrationLogin Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809404918,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809405082,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0010001a-00cf-00ab-0005-00900071004a.png",
+        "timestamp": 1618809404837,
+        "duration": 9515
+    },
+    {
+        "description": "Assert various search boxes and search result|Assert Scrollable Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809414655,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\006900c6-0031-00f8-002b-00f200a50097.png",
+        "timestamp": 1618809414453,
+        "duration": 1974
+    },
+    {
+        "description": "Assert and upload image|Assert UploadImage Section",
+        "passed": false,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": [
+            "Failed: invalid argument: File not found : C://Users//mindfire//Downloads//pp.jpg\n  (Session info: chrome=90.0.4430.72)\n  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: invalid argument: File not found : C://Users//mindfire//Downloads//pp.jpg\n  (Session info: chrome=90.0.4430.72)\n  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64)\n    at Object.checkLegacyResponse (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n    at parseHttpResponse (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)\nFrom: Task: WebElement.sendKeys()\n    at Driver.schedule (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n    at WebElement.schedule_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2010:25)\n    at WebElement.sendKeys (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2174:19)\n    at actionFn (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:89:44)\n    at Array.map (<anonymous>)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:461:65\n    at ManagedPromise.invokeCallback_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:459:27)\n    at ElementArrayFinder.<computed> [as sendKeys] (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:91:29)\n    at ElementFinder.<computed> [as sendKeys] (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:831:22)\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Intermediate_Components_spec\\UploadImage_Spec.js:56:38)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\nFrom: Task: Run it(\"Assert and upload image\") in control flow\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Intermediate_Components_spec\\UploadImage_Spec.js:30:5)\n    at addSpecsToSuite (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Intermediate_Components_spec\\UploadImage_Spec.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809416701,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00220002-00ab-00d1-000f-009400b300e0.png",
+        "timestamp": 1618809416522,
+        "duration": 2204
+    },
+    {
+        "description": "Functionality of Customer Transaction|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809418876,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809418936,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0041008c-005d-00c0-005b-006f005500e0.png",
+        "timestamp": 1618809418804,
+        "duration": 6132
+    },
+    {
+        "description": "Functionality of Customer Deposit|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809425100,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809425330,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00cd0043-002f-00f6-00e0-000000cd002c.png",
+        "timestamp": 1618809425033,
+        "duration": 2078
+    },
+    {
+        "description": "Functionality of Customer Deposit|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809427402,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00d10011-0027-0052-008d-001400460069.png",
+        "timestamp": 1618809427216,
+        "duration": 2325
+    },
+    {
+        "description": "click Home Page|XYZ Bank Home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809429762,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809429964,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\007100ba-0039-00e1-00cd-00e2001c0068.png",
+        "timestamp": 1618809429659,
+        "duration": 1479
+    },
+    {
+        "description": "AddCustomer section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809431381,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809431676,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\006d00e2-004a-0039-0073-00cd002b0027.png",
+        "timestamp": 1618809431266,
+        "duration": 3037
+    },
+    {
+        "description": "OpenAccount section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809435017,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809435401,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\000a006d-005d-009b-003a-005b00fa0045.png",
+        "timestamp": 1618809434455,
+        "duration": 3517
+    },
+    {
+        "description": "Customers section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809438660,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809438985,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\001900c0-000c-00ec-00e4-009e002100a2.png",
+        "timestamp": 1618809438141,
+        "duration": 3258
+    },
+    {
+        "description": "Valid Consumption Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809441781,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809442178,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\007100c7-00ef-0036-0061-007e0086009f.png",
+        "timestamp": 1618809441576,
+        "duration": 13297
+    },
+    {
+        "description": "Invalid Consumption Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809455257,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00c10059-0082-0072-000c-00600053007e.png",
+        "timestamp": 1618809454997,
+        "duration": 2020
+    },
+    {
+        "description": "Valid Simple Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809457219,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809457269,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0034006b-0061-007a-00e2-009f007000d7.png",
+        "timestamp": 1618809457157,
+        "duration": 4017
+    },
+    {
+        "description": "Invalid Simple Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809461405,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809461590,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00070046-001a-004b-000a-00c30083004c.png",
+        "timestamp": 1618809461295,
+        "duration": 1617
+    },
+    {
+        "description": "Assert home page navigation bar|Assert Course selection home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/visits - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809467276,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\005e00dd-0031-00e7-0056-0022001000da.png",
+        "timestamp": 1618809463027,
+        "duration": 9481
+    },
+    {
+        "description": "functionality of home page navigation bar|Assert Course selection home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809474748,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809475909,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809484536,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809484537,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809490428,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/sign_in - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809490429,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://sso.teachable.com/ahoy/visits - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809490429,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809492288,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809492290,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809492290,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0011005a-007a-005c-003a-00d500c500e5.png",
+        "timestamp": 1618809472752,
+        "duration": 20302
+    },
+    {
+        "description": "Print course details|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809493434,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/sign_up - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809493553,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://sso.teachable.com/secure/673/users/sign_up?reset_purchase_session=1 - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809493623,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "deprecation 3 'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.",
+                "timestamp": 1618809494676,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809495878,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809495880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809495880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809495880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809506838,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0026007f-00e9-0039-0036-00590099000c.png",
+        "timestamp": 1618809493546,
+        "duration": 33673
+    },
+    {
+        "description": "Print author name in dropdown|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809536809,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809536811,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809536811,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809536812,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809536813,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809542248,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809542248,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00ee007c-00c3-0002-00f9-0078002900e3.png",
+        "timestamp": 1618809527502,
+        "duration": 19835
+    },
+    {
+        "description": "Assert all courses by searching protractor|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809548195,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809548199,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809548483,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809548484,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809548486,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809548486,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809548489,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809549267,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809554628,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809559690,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809566708,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809571792,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809576878,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809582135,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00f300db-00fe-0033-009f-0084007100f8.png",
+        "timestamp": 1618809547528,
+        "duration": 34603
+    },
+    {
+        "description": "Assert home page Journey Details|Assert and functionality check of Journey Details",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13748,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://www.delta.com/resources/c36db7c71763120c0d0265eb98f27f913a30d77a1d98e 18 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1618809585265,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.delta.com/apac/en - Mixed Content: The page at 'https://www.delta.com/apac/en' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://dpm.demdex.net/id/rd?d_visid_ver=2.3.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=F0E65E09512D2CC50A490D4D%40AdobeOrg&d_nsid=0&ts=1618809585206'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1618809586153,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://gum.criteo.com/sync?c=327&a=1&r=1&u=https://pulse.delta.com/pc/delta/%3Fcw_criteoid%3D%40USERID%40 - Failed to load resource: net::ERR_CONNECTION_TIMED_OUT",
+                "timestamp": 1618809611730,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\006600d8-0040-00ac-00db-0089005c00cc.png",
+        "timestamp": 1618809582344,
+        "duration": 29617
     }
 ];
 
