@@ -3171,6 +3171,546 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "screenShotFile": "images\\006600d8-0040-00ac-00db-0089005c00cc.png",
         "timestamp": 1618809582344,
         "duration": 29617
+    },
+    {
+        "description": "Assert various Multiform|Assert Multiform Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809803760,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809805177,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00170012-001c-0098-00f6-001f002a0034.png",
+        "timestamp": 1618809801694,
+        "duration": 16077
+    },
+    {
+        "description": "Assert various search boxes and search result|Assert SearchFilter Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809819072,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809819227,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0090002c-0017-0052-0089-0040000100ba.png",
+        "timestamp": 1618809818063,
+        "duration": 5287
+    },
+    {
+        "description": "Assert various searches and data in WebTable|Assert WebTable Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809823505,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809823638,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00d700a1-0001-0091-008c-009c001b0084.png",
+        "timestamp": 1618809823464,
+        "duration": 2935
+    },
+    {
+        "description": "Signin with invalid username and password and assert the error labels|Assert RegistrationLogin Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809826555,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809826692,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\008f0072-0013-00b8-00db-0061002b00b4.png",
+        "timestamp": 1618809826517,
+        "duration": 9075
+    },
+    {
+        "description": "Assert login is successful, and assert the labels shown |Assert RegistrationLogin Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809835752,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809835933,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\003400ae-0050-00af-003e-003100c7002c.png",
+        "timestamp": 1618809835694,
+        "duration": 10386
+    },
+    {
+        "description": "Assert various search boxes and search result|Assert Scrollable Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809846253,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809846358,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00a700e6-0062-005a-00ce-00130037009d.png",
+        "timestamp": 1618809846190,
+        "duration": 2885
+    },
+    {
+        "description": "Assert and upload image|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809849243,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809849359,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00340097-0025-006d-00e9-00e3003f001e.png",
+        "timestamp": 1618809849184,
+        "duration": 2960
+    },
+    {
+        "description": "Functionality of Customer Transaction|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809852352,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809852482,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\008300f9-0058-0087-000b-0054000700c0.png",
+        "timestamp": 1618809852310,
+        "duration": 5243
+    },
+    {
+        "description": "Functionality of Customer Deposit|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809857710,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809857924,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\007f004f-0081-0008-0041-0085005f0096.png",
+        "timestamp": 1618809857650,
+        "duration": 1894
+    },
+    {
+        "description": "Functionality of Customer Deposit|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809859720,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809859908,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\000400b0-0076-0051-004e-000600ac0012.png",
+        "timestamp": 1618809859649,
+        "duration": 1844
+    },
+    {
+        "description": "click Home Page|XYZ Bank Home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809861684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809861883,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\003c001e-00bb-007a-0089-009500080040.png",
+        "timestamp": 1618809861606,
+        "duration": 966
+    },
+    {
+        "description": "AddCustomer section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809862760,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809862967,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00e900a2-006d-0033-0004-00ff001800f8.png",
+        "timestamp": 1618809862681,
+        "duration": 2726
+    },
+    {
+        "description": "OpenAccount section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809866524,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809866704,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\006500fd-005b-0064-0021-00a200d70057.png",
+        "timestamp": 1618809865533,
+        "duration": 2525
+    },
+    {
+        "description": "Customers section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809868864,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809869054,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0095008a-0043-0069-0019-007b000000a4.png",
+        "timestamp": 1618809868171,
+        "duration": 2577
+    },
+    {
+        "description": "Valid Consumption Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809870928,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809871140,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\001a00da-0090-00bd-00c9-00eb004e005f.png",
+        "timestamp": 1618809870850,
+        "duration": 3488
+    },
+    {
+        "description": "Invalid Consumption Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809874518,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809874564,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0076007f-0030-0060-0099-003c00710041.png",
+        "timestamp": 1618809874469,
+        "duration": 1492
+    },
+    {
+        "description": "Valid Simple Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809876149,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809876191,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00a500cf-009f-00c3-0034-00710087001d.png",
+        "timestamp": 1618809876082,
+        "duration": 2046
+    },
+    {
+        "description": "Invalid Simple Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618809878308,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618809878514,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00e4004c-004f-0013-0035-008200fe0040.png",
+        "timestamp": 1618809878225,
+        "duration": 1450
     }
 ];
 
