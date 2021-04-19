@@ -3711,6 +3711,368 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "screenShotFile": "images\\00e4004c-004f-0013-0035-008200fe0040.png",
         "timestamp": 1618809878225,
         "duration": 1450
+    },
+    {
+        "description": "Assert home page navigation bar|Assert Course selection home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/visits - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809883240,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\006a0092-0006-00bd-00d1-005b005b0047.png",
+        "timestamp": 1618809879789,
+        "duration": 6310
+    },
+    {
+        "description": "functionality of home page navigation bar|Assert Course selection home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809887874,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809894395,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809894403,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809899892,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/sign_in - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809899894,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://sso.teachable.com/ahoy/visits - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809899895,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809900856,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809900857,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809900872,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00c400c9-00ee-00f0-004d-00f0003000ec.png",
+        "timestamp": 1618809886457,
+        "duration": 14967
+    },
+    {
+        "description": "Print course details|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809901970,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/sign_up - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809902572,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://sso.teachable.com/secure/673/users/sign_up?reset_purchase_session=1 - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809902775,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "deprecation 3 'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.",
+                "timestamp": 1618809913161,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913161,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913161,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913161,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913161,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913161,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913161,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913162,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913162,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913162,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913162,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913162,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913162,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://sso.teachable.com/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=6423b5c3bdf22e47 0 chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.",
+                "timestamp": 1618809913162,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\005100f7-0095-0065-0091-005500e30013.png",
+        "timestamp": 1618809901716,
+        "duration": 31559
+    },
+    {
+        "description": "Print author name in dropdown|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809954727,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809954728,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809954728,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809954728,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809960238,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809960238,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0059007f-00dc-00a3-00ed-00a000100062.png",
+        "timestamp": 1618809933386,
+        "duration": 31953
+    },
+    {
+        "description": "Assert all courses by searching protractor|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 13608,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809967240,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809967240,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809967240,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809967240,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809967242,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809967266,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809968350,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809974011,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809979190,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809985309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809990399,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618809995450,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1618810000753,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00370076-00e8-005e-0033-00d700f50053.png",
+        "timestamp": 1618809965525,
+        "duration": 35225
     }
 ];
 
