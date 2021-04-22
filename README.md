@@ -11,7 +11,7 @@ Type Script,
 Java Script,
 Protractor,
 Jasmine,
-Protractor-beautiful-reporter,
+Protractor-beautiful-reporter
 Beautify File,
 Github
 
