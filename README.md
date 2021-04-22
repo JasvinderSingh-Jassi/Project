@@ -13,7 +13,7 @@ Protractor,
 Jasmine,
 Protractor-beautiful-reporter
 Beautify File,
-Github
+Github.
 
 
 # Various concepts implemented
