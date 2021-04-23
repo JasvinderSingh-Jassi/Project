@@ -8725,6 +8725,130 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "screenShotFile": "images\\001700d0-00d2-00a1-0045-00ed00d30033.png",
         "timestamp": 1619154172315,
         "duration": 31587
+    },
+    {
+        "description": "Print author name in dropdown|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154205905,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154205905,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154211842,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154211842,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00e20088-00d9-00c7-00d4-0011003a00e8.png",
+        "timestamp": 1619154204086,
+        "duration": 12844
+    },
+    {
+        "description": "Assert all courses by searching protractor|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154221406,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154221530,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154222173,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154222176,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154222261,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154229735,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154234877,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154242285,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154247366,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154252422,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154257987,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\004100be-007a-00ee-000b-00d7002a00de.png",
+        "timestamp": 1619154217175,
+        "duration": 40803
     }
 ];
 
