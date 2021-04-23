@@ -8631,6 +8631,100 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "screenShotFile": "images\\00b900ec-00cc-008f-00bf-003e001d0090.png",
         "timestamp": 1619154054179,
         "duration": 27151
+    },
+    {
+        "description": "functionality of home page navigation bar|Assert Course selection home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154083482,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154084563,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154164331,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/sign_in - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154164331,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://sso.teachable.com/ahoy/visits - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154165595,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154171031,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00aa0099-0070-00a1-009c-007f00fb0024.png",
+        "timestamp": 1619154081587,
+        "duration": 90421
+    },
+    {
+        "description": "Print course details|Assert Course selection",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/events - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154172236,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/sign_up - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154173269,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://sso.teachable.com/secure/673/users/sign_up?reset_purchase_session=1 - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154173531,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "deprecation 3 'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.",
+                "timestamp": 1619154183835,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\001700d0-00d2-00a1-0045-00ed00d30033.png",
+        "timestamp": 1619154172315,
+        "duration": 31587
     }
 ];
 
