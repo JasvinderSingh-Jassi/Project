@@ -8087,6 +8087,550 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         ],
         "timestamp": 1619075963332,
         "duration": 14134
+    },
+    {
+        "description": "Assert various Multiform|Assert Multiform Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619153953923,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619153958543,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\005200fe-0041-00c0-00bb-0072003f0074.png",
+        "timestamp": 1619153951306,
+        "duration": 22414
+    },
+    {
+        "description": "Assert various search boxes and search result|Assert SearchFilter Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619153974509,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619153974748,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00da0030-00a2-00e7-00a0-002500280078.png",
+        "timestamp": 1619153974400,
+        "duration": 4590
+    },
+    {
+        "description": "Assert various searches and data in WebTable|Assert WebTable Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619153979328,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\006b0043-00e3-0099-0029-005c002d006a.png",
+        "timestamp": 1619153979142,
+        "duration": 5058
+    },
+    {
+        "description": "Signin with invalid username and password and assert the error labels|Assert RegistrationLogin Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619153984526,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00ed00ac-008e-006d-00ab-003400ae000b.png",
+        "timestamp": 1619153984336,
+        "duration": 10907
+    },
+    {
+        "description": "Assert login is successful, and assert the labels shown |Assert RegistrationLogin Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619153995458,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619153995613,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00990057-002d-005c-003c-004600920029.png",
+        "timestamp": 1619153995343,
+        "duration": 9592
+    },
+    {
+        "description": "Assert various search boxes and search result|Assert Scrollable Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154005260,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\000b0004-00ba-00fe-000b-00a400e200d3.png",
+        "timestamp": 1619154005056,
+        "duration": 2717
+    },
+    {
+        "description": "Assert and upload image|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154008134,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\003600c3-0085-00b9-005c-00db003a0057.png",
+        "timestamp": 1619154007942,
+        "duration": 2962
+    },
+    {
+        "description": "Functionality of Customer Transaction|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154011334,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\007f0061-004b-00fb-00b4-006600630028.png",
+        "timestamp": 1619154011115,
+        "duration": 8238
+    },
+    {
+        "description": "Functionality of Customer Deposit|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619154019620,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154019839,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0087009e-0084-005d-00ed-009c0026000e.png",
+        "timestamp": 1619154019497,
+        "duration": 3035
+    },
+    {
+        "description": "Functionality of Customer Deposit|Functionality of XYZ Bank Customer login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619154022795,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154022958,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\009400a1-0070-0099-008f-004f00ad003a.png",
+        "timestamp": 1619154022661,
+        "duration": 3533
+    },
+    {
+        "description": "click Home Page|XYZ Bank Home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619154026452,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154026692,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00a700a5-009c-00a5-0089-0005000400ac.png",
+        "timestamp": 1619154026319,
+        "duration": 4861
+    },
+    {
+        "description": "AddCustomer section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619154031445,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154031608,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00f200be-0073-0002-0036-009b00650050.png",
+        "timestamp": 1619154031323,
+        "duration": 5372
+    },
+    {
+        "description": "OpenAccount section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619154037044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154037309,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00100072-0008-0068-0080-00df0064002a.png",
+        "timestamp": 1619154036887,
+        "duration": 2820
+    },
+    {
+        "description": "Customers section|click XYZ Bank Manager login",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154040156,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\002b00b6-00af-0088-0020-00270008001a.png",
+        "timestamp": 1619154039909,
+        "duration": 1728
+    },
+    {
+        "description": "Valid Consumption Calculations|Assert UploadImage Section",
+        "passed": false,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": [
+            "Expected '' to equal 'Angular Consumption Calculator'.",
+            "Expected '' to equal 'Today,'.",
+            "Failed: element not interactable\n  (Session info: chrome=90.0.4430.72)\n  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64)"
+        ],
+        "trace": [
+            "Error: Failed expectation\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Small Projects_spec\\ConsumptionCalculator_Spec.js:33:61)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Failed expectation\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Small Projects_spec\\ConsumptionCalculator_Spec.js:36:58)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "WebDriverError: element not interactable\n  (Session info: chrome=90.0.4430.72)\n  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64)\n    at Object.checkLegacyResponse (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n    at parseHttpResponse (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)\nFrom: Task: WebElement.sendKeys()\n    at Driver.schedule (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n    at WebElement.schedule_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2010:25)\n    at WebElement.sendKeys (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2174:19)\n    at actionFn (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:89:44)\n    at Array.map (<anonymous>)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:461:65\n    at ManagedPromise.invokeCallback_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:459:27)\n    at ElementArrayFinder.<computed> [as sendKeys] (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:91:29)\n    at ElementFinder.<computed> [as sendKeys] (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:831:22)\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Small Projects_spec\\ConsumptionCalculator_Spec.js:48:43)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\nFrom: Task: Run it(\"Valid Consumption Calculations\") in control flow\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Small Projects_spec\\ConsumptionCalculator_Spec.js:45:5)\n    at addSpecsToSuite (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Small Projects_spec\\ConsumptionCalculator_Spec.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619154041936,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154042192,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://cdnjs.cloudflare.com/ajax/libs/coffee-script/1.6.3/coffee-script.min.js - Failed to load resource: net::ERR_CONNECTION_CLOSED",
+                "timestamp": 1619154043683,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\003e00a2-0005-00c7-0003-00ab009700f5.png",
+        "timestamp": 1619154041795,
+        "duration": 4431
+    },
+    {
+        "description": "Invalid Consumption Calculations|Assert UploadImage Section",
+        "passed": false,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": [
+            "Expected '' to equal 'Angular Consumption Calculator'.",
+            "Expected '' to equal 'Today,'.",
+            "Failed: element not interactable\n  (Session info: chrome=90.0.4430.72)\n  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64)"
+        ],
+        "trace": [
+            "Error: Failed expectation\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Small Projects_spec\\ConsumptionCalculator_Spec.js:33:61)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Failed expectation\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Small Projects_spec\\ConsumptionCalculator_Spec.js:36:58)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "WebDriverError: element not interactable\n  (Session info: chrome=90.0.4430.72)\n  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64)\n    at Object.checkLegacyResponse (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n    at parseHttpResponse (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)\nFrom: Task: WebElement.sendKeys()\n    at Driver.schedule (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n    at WebElement.schedule_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2010:25)\n    at WebElement.sendKeys (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2174:19)\n    at actionFn (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:89:44)\n    at Array.map (<anonymous>)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:461:65\n    at ManagedPromise.invokeCallback_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:459:27)\n    at ElementArrayFinder.<computed> [as sendKeys] (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:91:29)\n    at ElementFinder.<computed> [as sendKeys] (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:831:22)\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Small Projects_spec\\ConsumptionCalculator_Spec.js:82:43)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\nFrom: Task: Run it(\"Invalid Consumption Calculations\") in control flow\n    at UserContext.<anonymous> (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Small Projects_spec\\ConsumptionCalculator_Spec.js:79:5)\n    at addSpecsToSuite (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (C:\\Users\\Jasvinder Singh\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (C:\\Users\\Jasvinder Singh\\Documents\\Project\\Test Cases\\Small Projects_spec\\ConsumptionCalculator_Spec.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619154046398,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154046454,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00e50009-00a0-004c-00dd-005000ae00f1.png",
+        "timestamp": 1619154046343,
+        "duration": 1832
+    },
+    {
+        "description": "Valid Simple Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1619154048713,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154048767,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0079006f-006f-00db-00e6-000d009600e9.png",
+        "timestamp": 1619154048634,
+        "duration": 3809
+    },
+    {
+        "description": "Invalid Simple Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 216:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1619154052792,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00da0068-0013-000a-007f-00d3004700cd.png",
+        "timestamp": 1619154052579,
+        "duration": 1425
+    },
+    {
+        "description": "Assert home page navigation bar|Assert Course selection home Page",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 6532,
+        "browser": {
+            "name": "chrome",
+            "version": "90.0.4430.72"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.selenium-tutorial.com/ahoy/visits - Failed to load resource: the server responded with a status of 403 ()",
+                "timestamp": 1619154062191,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00b900ec-00cc-008f-00bf-003e001d0090.png",
+        "timestamp": 1619154054179,
+        "duration": 27151
     }
 ];
 
