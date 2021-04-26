@@ -15,7 +15,7 @@ describe("Assert Multiform Section", () => {
 
   beforeEach(function () {
     originalTimeout = jasmine.DEFAULT_TIMEOUT_INTERVAL;
-    jasmine.DEFAULT_TIMEOUT_INTERVAL = 1000000;
+    jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000000;
 
     //Disable AngularEnabled
     browser.waitForAngularEnabled(false);

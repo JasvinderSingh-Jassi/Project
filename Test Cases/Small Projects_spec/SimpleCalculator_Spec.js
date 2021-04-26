@@ -3,7 +3,7 @@ let SimpleCalculator_Page = require('../../Page Objects/SimpleCalculator_Page');
 let util = require('../../TestUtil');
 let tc = require('../../TestConstant');
 
-describe("Assert UploadImage Section", () => {
+describe("Assert SimpleCalculation Section", () => {
 
     let originalTimeout;
 
@@ -66,6 +66,8 @@ describe("Assert UploadImage Section", () => {
         //Select operator
         SimpleCalculator_Page.operator.click().sendKeys("-").click();
 
+        util.wait(SimpleCalculator_Page.result);
+        
         //Assert calculation
         expect(SimpleCalculator_Page.result.getText()).toEqual("54 - 32 = 22");
 

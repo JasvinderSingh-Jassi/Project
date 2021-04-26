@@ -82,7 +82,7 @@ it("Assert all courses by searching protractor",() =>{
 
   //assert all_course section
   Course_Page.all_courses.click();
- // browser.sleep(5000);
+  browser.sleep(5000);
   util.wait(Course_Page.search);
 
   //search protractor related courses

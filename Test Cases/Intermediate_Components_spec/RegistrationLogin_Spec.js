@@ -47,6 +47,8 @@ describe("Assert RegistrationLogin Section", () => {
         RegistrationLogin_Page.username.sendKeys(tc.Email);
         RegistrationLogin_Page.password.sendKeys(tc.Password);
 
+        browser.sleep(5000);
+        
         //Submit login credentials
         util.waitClick(RegistrationLogin_Page.Login);
 
